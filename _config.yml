@@ -2,7 +2,7 @@ title: PWIM Project
 description:
   Official website and dev log for the PWIM project
   
-baseurl: pwim-project.github.io
+baseurl: "https://pwim-project.github.io"
 
 # show_excerpts: false # set to true to show excerpts on the homepage
 
