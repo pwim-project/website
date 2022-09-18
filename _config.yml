@@ -1,8 +1,11 @@
 title: PWIM Project
-description:
-  Official website and dev log for the PWIM project
+author:
+  name: Kristian Notari
+  email: kristiannotari@icloud.com
+description: >
+  Official website and dev blog for the PWIM project
 
-# show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -51,6 +54,6 @@ minima:
 # Build settings
 theme: minima
 
-# plugins:
- # - jekyll-feed
- # - jekyll-seo-tag
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
