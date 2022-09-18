@@ -2,8 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-author:
-    - Kristian Notari
 ---
 
 The PWIM project is all about developing a new kind of experience for creature-like games.
@@ -18,6 +16,36 @@ A special *thank you* to all the people that believed in the project and started
 
 We always need any kind of help. If interested, please contact us at kristiannotari@icloud.com or on Discord at Kristian Notari#3594.
 
-| Member | Role |
-| - | - |
-| ![kristian](assets/images/members/kristian.jpg) | creator, concept |
+<style>
+div#members-table + table img {
+    height: 80px;
+    width: 80px;
+}
+div#members-table + table td:first-child {
+    max-height: 80px;
+    max-width: 80px;
+}
+</style>
+
+<div id="members-table"></div>
+
+| | Member | Role |
+| - | - | - |
+| ![kristian](assets/images/members/kristian.png) | Kristian | :man_office_worker: creator + :bulb: concept |
+| ![luxel](assets/images/members/luxel.png) | Luxel | :computer: programmer |
+| ![troyo](assets/images/members/troyo.png) | Troyo | :art: 2d |
+| ![port](assets/images/members/port.png) | Port | :potted_plant: 3d |
+| ![bluattire](assets/images/members/bluattire.png) | bluattire | :musical_score: sound/music |
+| ![nahualo](assets/images/members/nahualo.png) | Nahua-Lo | :man_office_worker: moderator |
+| ![spearyt](assets/images/members/spearyt.png) | Spearyt | :crossed_swords: combat designer |
+| ![batman256](assets/images/members/batman256.png) | Batman 256 | :pencil: writer |
+| ![firesquid](assets/images/members/firesquid.png) | FireSquid | :computer: programmer |
+| ![friendlyguy](assets/images/members/friendlyguy.png) | Friendlyguy | :art: 2d |
+| ![awxy](assets/images/members/awxy.png) | awxy | :computer: programmer |
+| ![tarro57](assets/images/members/tarro57.png) | Tarro57 | :musical_score: sound/music |
+| ![cntrpl](assets/images/members/cntrpl.png) | cntrpl | :video_game: playtesting |
+| ![raijian](assets/images/members/raijian.png) | Raijian | :game_die: game design + :computer: programmer + :pencil: writer |
+| ![julianojosoa](assets/images/members/julianojosoa.png) | Juliano Josoa |  |
+| ![esquilito](assets/images/members/esquilito.png) | Esquilito | :art: 2d |
+| ![oblivion](assets/images/members/oblivion.png) | Oblivion | :potted_plant: 3d |
+| ![jiangying9](assets/images/members/jiangying9.png) | Jiangying9 | :game_die: game design + :computer: programmer + :art: 2d |
