@@ -1,6 +1,6 @@
 # PWIM Website
 
-This is the official repo of the PWIM website and dev blog.
+This is the official repo of the PWIM website and devlog.
 
 ## How to add a post?
 
