@@ -14,7 +14,7 @@ All the work has been done by volunteers with no compensation whatsoever. No pla
 
 A special *thank you* to all the people that believed in the project and started collaborating with us.
 
-We always need any kind of help. If interested, please contact us via [email](kristiannotari@icloud.com) or on [Discord](discordapp.com/users/760138053908955136).
+We always need any kind of help. If interested, please contact us via [email](mailto:kristiannotari@icloud.com) or on [Discord](https://discordapp.com/users/760138053908955136).
 
 <style>
 div#members-table {
