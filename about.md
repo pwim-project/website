@@ -22,8 +22,8 @@ div#members-table {
     margin-top: 36px;
 }
 div#members-table + table td:first-child img {
-    height: 80px;
-    width: 80px;
+    max-height: 80px;
+    max-width: 80px;
 }
 div#members-table + table td:first-child {
     max-height: 80px;
