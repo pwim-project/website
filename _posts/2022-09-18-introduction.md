@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The PWIM Project is now live!"
+title: "The PWIM Project is now public!"
 categories: misc
 ---
 
