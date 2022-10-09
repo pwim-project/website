@@ -38,7 +38,7 @@ div#members-table + table td:first-child {
 | ![kristian](assets/images/members/kristian.png) | Kristian | :man_office_worker: creator + :bulb: concept |
 | ![luxel](assets/images/members/luxel.png) | Luxel | :computer: programmer |
 | ![troyo](assets/images/members/troyo.png) | Troyo | :art: 2d |
-| ![port](assets/images/members/port.png) | Port | 🪴 3d |
+| ![port](assets/images/members/port.png) | Port | &#129716; 3d |
 | ![bluattire](assets/images/members/bluattire.png) | bluattire | :musical_score: sound/music |
 | ![nahualo](assets/images/members/nahualo.png) | Nahua-Lo | :man_office_worker: moderator |
 | ![spearyt](assets/images/members/spearyt.png) | Spearyt | :crossed_swords: combat designer |
@@ -51,5 +51,10 @@ div#members-table + table td:first-child {
 | ![raijian](assets/images/members/raijian.png) | Raijian | :game_die: game design + :computer: programmer + :pencil: writer |
 | ![julianojosoa](assets/images/members/julianojosoa.png) | Juliano Josoa |  |
 | ![esquilito](assets/images/members/esquilito.png) | Esquilito | :art: 2d |
-| ![oblivion](assets/images/members/oblivion.png) | Oblivion | 🪴 3d |
+| ![oblivion](assets/images/members/oblivion.png) | Oblivion | &#129716; 3d |
 | ![jiangying9](assets/images/members/jiangying9.png) | Jiangying9 | :game_die: game design + :computer: programmer + :art: 2d |
+| ![janbluthederg](assets/images/members/janbluthederg.png) | JanbluTheDerg | :game_die: game design + :computer: programmer |
+| ![rollamarble](assets/images/members/rollamarble.png) | rollamarble | :computer: programmer |
+| ![buttlordtheancient](assets/images/members/buttlordtheancient.png) | ButtlordTheAncient |  |
+| ![coffebrothers](assets/images/members/coffebrothers.png) | CoffeeBrothers | :pencil: writer |
+| ![rojoignacio](assets/images/members/rojoignacio.png) | Rojo_Ignacio | &#129716; 3d |
