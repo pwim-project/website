@@ -2,6 +2,9 @@ title: PWIM Project
 description: >
   Official website and devlog for the PWIM project
 
+url: 'https://pwim-project.github.io/' # your main domain
+baseurl: 'website/' # if you're using custom domain keep this blank example: baseurl: ''
+
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
